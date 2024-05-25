@@ -1,4 +1,4 @@
-package weeklyContest_398;
+package WeeklyContest.weeklyContest_398;
 import java.util.*;
 public class SpecialArray2 {
     public boolean[] isArraySpecial(int[] nums, int[][] queries) {

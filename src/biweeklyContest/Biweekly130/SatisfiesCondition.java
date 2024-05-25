@@ -1,4 +1,4 @@
-package Biweekly130;
+package biweeklyContest.Biweekly130;
 import java.util.*;
 public class SatisfiesCondition {
     public boolean satisfiesConditions(int[][] grid) {
